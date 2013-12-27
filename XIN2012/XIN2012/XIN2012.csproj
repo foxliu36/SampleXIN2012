@@ -469,6 +469,7 @@
     <EmbeddedResource Include="QryTransfer.resx">
       <DependentUpon>QryTransfer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="RpFox.rdlc" />
     <EmbeddedResource Include="RptCustomer.rdlc" />
     <EmbeddedResource Include="RptCustomer.resx">
       <DependentUpon>RptCustomer.cs</DependentUpon>
