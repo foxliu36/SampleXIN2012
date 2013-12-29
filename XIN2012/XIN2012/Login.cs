@@ -49,7 +49,7 @@ namespace XIN2012
                         MessageBox.Show("認證失敗已達3次，系統將結束！", "認證失敗",
                             MessageBoxButtons.OK, MessageBoxIcon.Error);
                         CanClose = true;
-                      }
+                    }
                 }
                 else
                 {                    
